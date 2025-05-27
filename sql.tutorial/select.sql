@@ -1,1 +1,2 @@
-SELECT*FROM Patients;
+-- SELECT*FROM Patients;
+SELECT DISTINCT PatientID FROM Patients;
